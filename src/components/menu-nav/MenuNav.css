@@ -1,0 +1,9 @@
+.menu-nav-container {
+    height: 45px;
+}
+
+.menu-nav {
+    height: 100%;
+    background-color: #20232a;
+    border-radius: 5px;
+}

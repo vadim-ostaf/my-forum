@@ -1,0 +1,12 @@
+header {
+    margin: 0 auto;
+}
+
+.header-logo {
+    padding: 20px 0;
+    text-align: start;
+}
+
+.header-logo img {
+    height: 86px;
+}
